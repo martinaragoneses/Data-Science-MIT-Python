@@ -1,6 +1,7 @@
 MIT CS COURSEWORK
 
-Computer Programming & Python basics
+Computer Programming & Python basics 
+
   6.0001 Introduction to Computer Science Programming in Python {Summer 2015}
   6.0002 Introduction to Computational Thinking and Data Science {Summer 2015}
   6.01 Introduction to Electrical Engineering and Computer Science I {Summer 2015}
